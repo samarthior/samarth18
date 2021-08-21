@@ -1,6 +1,6 @@
 #background{
     background-size: cover;
-    background-image:url("https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Animated_Wallpaper_Windows_10_-_Wallpaper_Engine.gif/440px-Animated_Wallpaper_Windows_10_-_Wallpaper_Engine.gif") ;
+    background-image:url("https://freevector-images.s3.amazonaws.com/uploads/vector/preview/39892/39892.png") ;
 }
 
 canvas{
@@ -10,10 +10,10 @@ canvas{
 }
 
 @keyframes samarth{
-    from{box-shadow: 1px  1px 25px cyan ;}
-    to{box-shadow: 1px 1px 25px orange;}
+    from{box-shadow: 1px  1px 25px darkslateblue ;}
+    to{box-shadow: 1px 1px 25px darkorchid;}
     
 }
 .btn-warning:hover{
-    background-color: darkred;
+    background-color: greenyellow;
 }
