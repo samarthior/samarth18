@@ -1,0 +1,19 @@
+#background{
+    background-size: cover;
+    background-image:url("https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Animated_Wallpaper_Windows_10_-_Wallpaper_Engine.gif/440px-Animated_Wallpaper_Windows_10_-_Wallpaper_Engine.gif") ;
+}
+
+canvas{
+    animation-name:samarth ;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes samarth{
+    from{box-shadow: 1px  1px 25px cyan ;}
+    to{box-shadow: 1px 1px 25px orange;}
+    
+}
+.btn-warning:hover{
+    background-color: darkred;
+}
